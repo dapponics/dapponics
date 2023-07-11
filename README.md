@@ -41,7 +41,7 @@
 
 # Introduction
 
-The purpose of this whitepaper is to provide a comprehensive overview of Dapponics, a blockchain-focused company that offers a range of products and services to empower decentralization for individuals and businesses. In this document, we will describe Dapponics products and services, values, mission, market opportunity, competitive advantage, business model and roadmap.
+The purpose of this whitepaper is to provide a comprehensive overview of Dapponics, a blockchain focused company that offers a range of products and services to empower decentralization for individuals and businesses. In this document, we will describe Dapponics products and services, values, mission, market opportunity, competitive advantage, business model and roadmap.
 
 Dapponics was founded with the mission of promoting decentralization and reducing reliance on centralized intermediaries. The company's goal is to empower individuals and businesses by providing innovative solutions that leverage the properties of blockchain technology, such as transparency, security, and decentralization.
 
